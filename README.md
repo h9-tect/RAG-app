@@ -39,3 +39,4 @@ This document outlines the upcoming tasks for the development and implementation
 ## Conclusion
 The aim is to expand RAG capabilities to enhance automation and optimize content generation and data processing tasks in diverse applications.
 
+please join us in [Discord](https://discord.gg/mkYsXTuk)
